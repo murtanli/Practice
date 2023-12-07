@@ -1,0 +1,14 @@
+C:\Users\amirm\OneDrive\Рабочий стол\проекты\python\Practica\Sortir\Sortir\obj\Debug\net8.0\Sortir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amirm\OneDrive\Рабочий стол\проекты\python\Practica\Sortir\Sortir\obj\Debug\net8.0\Sortir.AssemblyInfoInputs.cache
+C:\Users\amirm\OneDrive\Рабочий стол\проекты\python\Practica\Sortir\Sortir\obj\Debug\net8.0\Sortir.AssemblyInfo.cs
+C:\Users\amirm\OneDrive\Рабочий стол\проекты\python\Practica\Sortir\Sortir\obj\Debug\net8.0\Sortir.csproj.CoreCompileInputs.cache
+C:\Users\amirm\OneDrive\Рабочий стол\проекты\python\Practica\Sortir\Sortir\bin\Debug\net8.0\Sortir.exe
+C:\Users\amirm\OneDrive\Рабочий стол\проекты\python\Practica\Sortir\Sortir\bin\Debug\net8.0\Sortir.deps.json
+C:\Users\amirm\OneDrive\Рабочий стол\проекты\python\Practica\Sortir\Sortir\bin\Debug\net8.0\Sortir.runtimeconfig.json
+C:\Users\amirm\OneDrive\Рабочий стол\проекты\python\Practica\Sortir\Sortir\bin\Debug\net8.0\Sortir.dll
+C:\Users\amirm\OneDrive\Рабочий стол\проекты\python\Practica\Sortir\Sortir\bin\Debug\net8.0\Sortir.pdb
+C:\Users\amirm\OneDrive\Рабочий стол\проекты\python\Practica\Sortir\Sortir\obj\Debug\net8.0\Sortir.dll
+C:\Users\amirm\OneDrive\Рабочий стол\проекты\python\Practica\Sortir\Sortir\obj\Debug\net8.0\refint\Sortir.dll
+C:\Users\amirm\OneDrive\Рабочий стол\проекты\python\Practica\Sortir\Sortir\obj\Debug\net8.0\Sortir.pdb
+C:\Users\amirm\OneDrive\Рабочий стол\проекты\python\Practica\Sortir\Sortir\obj\Debug\net8.0\Sortir.genruntimeconfig.cache
+C:\Users\amirm\OneDrive\Рабочий стол\проекты\python\Practica\Sortir\Sortir\obj\Debug\net8.0\ref\Sortir.dll
