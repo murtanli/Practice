@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\amirm\\OneDrive\\Рабочий стол\\проекты\\python\\Practica\\Sortir\\Sortir\\Sortir.csproj",
+      "projectUniqueName": "D:\\Practica\\Sortir\\Sortir\\Sortir.csproj",
       "projectName": "Sortir",
-      "projectPath": "C:\\Users\\amirm\\OneDrive\\Рабочий стол\\проекты\\python\\Practica\\Sortir\\Sortir\\Sortir.csproj",
+      "projectPath": "D:\\Practica\\Sortir\\Sortir\\Sortir.csproj",
       "packagesPath": "C:\\Users\\amirm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\amirm\\OneDrive\\Рабочий стол\\проекты\\python\\Practica\\Sortir\\Sortir\\obj\\",
+      "outputPath": "D:\\Practica\\Sortir\\Sortir\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\amirm\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,12 +56,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
